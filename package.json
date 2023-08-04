@@ -17,6 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/khalidsheet/enum-utils"
   },
-  "author": "Khalid Sheet",
+  "author": "Khalid Sheet <khalid.m.sheet@gmail.com>",
   "license": "MIT"
 }
