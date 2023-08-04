@@ -1,0 +1,17 @@
+{
+  "name": "create-enum",
+  "version": "1.0.0",
+  "description": "A simple method to create Enums in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "enums"
+  ],
+  "author": "Khalid Sheet",
+  "license": "MIT"
+}
