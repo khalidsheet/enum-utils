@@ -1,21 +1,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Enum Utils
+# Enum Utility
 
-Enum Utils is a utility function that allows you to create enum-like objects with read-only properties in JavaScript.
+Enum Utility is a utility function that allows you to create enum-like objects with read-only properties in JavaScript.
 
 ## Installation
 
-You can install Enum Utils using npm:
+You can install Enum Utility using npm:
 
 ```sh
-npm install enum-utils
+npm install enum-utility
 ```
 
 ## Usage
 ```js
 // Import the createEnum function
-import createEnum from 'enum-utils';
+import createEnum from 'enum-utility';
 
 // Create an enum-like object
 const colors = createEnum({
@@ -49,7 +49,7 @@ Throws:
 ---
 ## Examples
 ```js
-import createEnum from 'enum-utils';
+import createEnum from 'enum-utility';
 
 const daysOfWeek = createEnum({
   SUNDAY: 'sunday',
