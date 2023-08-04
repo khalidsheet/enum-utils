@@ -1,6 +1,6 @@
 {
   "name": "enum-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enum Utils is a utility function that allows you to create enum-like objects with read-only properties in JavaScript",
   "main": "index.js",
   "scripts": {
