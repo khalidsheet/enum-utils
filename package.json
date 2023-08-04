@@ -1,7 +1,7 @@
 {
-  "name": "create-enum",
+  "name": "create-utils",
   "version": "1.0.0",
-  "description": "A simple method to create Enums in JavaScript",
+  "description": "Enum Utils is a utility function that allows you to create enum-like objects with read-only properties in JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,11 @@
     "javascript",
     "enums"
   ],
+  "homepage": "https://github.com/khalidsheet/enum-utils",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidsheet/enum-utils"
+  },
   "author": "Khalid Sheet",
   "license": "MIT"
 }
